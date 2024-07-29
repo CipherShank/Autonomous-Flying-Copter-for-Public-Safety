@@ -19,4 +19,6 @@ The integration of AI technology with drones marks a revolutionary advancement i
 - 10 : Challenges Faced & Solutions 
 - 11 : Outcomes (Advantages) 
 - 12 : Conclusion 
-- 13 : Copyright 
+
+
+© 2024 Sandeep Mandala, Yasin Khan Pathan, Thrishank Kuntimaddi. All rights reserved.
