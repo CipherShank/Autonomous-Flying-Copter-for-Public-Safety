@@ -14,7 +14,7 @@ The integration of AI technology with drones marks a revolutionary advancement i
   - 7.1 : Hardware Components
   - 7.2 : Software Components
   - 7.3 : Innovative Battery Integration for Enhanced Drone Performance 
-- 08 : Solider AI Drone (Self Control) 
+- 08 : AI Integration for Individual Drones - The Soldier AI
 - 09 : Commander AI 
 - 10 : Challenges Faced & Solutions 
 - 11 : Outcomes (Advantages) 
