@@ -1,0 +1,67 @@
+#### 7.1 : Hardware Components for Drone Manufacturing
+
+1. Frame:
+   - Material**: Aluminum, Carbon Fiber, or Composite Material
+
+2. Motors:
+   - Type: Brushless DC Motors
+
+3. Propellers:
+   - Compatibility: Matched to Motors (Clockwise and Counter-Clockwise)
+
+4. Flight Controller:
+   - Function: Central Processing Unit for Navigation and Stability (e.g., Pixhawk, DJI Naza)
+
+5. Battery:
+   - Type: Lithium Polymer (LiPo)
+
+6. Sensors:
+   - GPS Module: Provides Location Data
+   - IMU (Inertial Measurement Unit): Measures Drone's Orientation
+   - Gyroscopes: Measure Angular Velocity
+   - Accelerometers: Measure Acceleration
+
+7. Electronic Speed Controllers (ESCs):
+   - Function: Control Motor Speed
+
+8. Wiring and Connectors:
+   - Function: For Power and Data Transmission
+
+9. Camera:
+   - Type: Based on Drone's Purpose (e.g., RGB, Thermal)
+
+10. Communication Systems:
+    - Components: Radio Transmitter/Receiver for Ground Control
+
+11. Mounting Hardware:
+    - Components: Screws, Nuts, and Bolts
+
+### 7.2 : Software Components for Drone Manufacturing
+
+1. Firmware:
+   - Function: Software Embedded in the Flight Controller
+   - Examples: ArduPilot, PX4
+
+2. Flight Control Software:
+   - Function: Interfaces with the Flight Controller for Configuration and Control
+   - Examples: Mission Planner, QGroundControl
+
+3. Sensor Calibration Software:
+   - Function: Tools for Calibrating Sensors and IMU
+
+4. Mobile App:
+   - Function: Companion Apps for Drone Operation and Monitoring
+
+5. Simulation Software:
+   - Function: Tools for Testing and Simulating Flight Scenarios
+
+6. Software Integrated with AI:
+   - Robot Operating System (ROS): Provides a framework for controlling drones and implementing AI algorithms, including path planning, navigation, and sensor data processing.
+   - DJI Software Development Kit (SDK): Allows developers to create applications for DJI drones, integrating AI capabilities for autonomous flight and intelligent decision-making.
+   - PX4 Autopilot: An open-source autopilot system that supports AI-based control and navigation, enabling tasks such as autonomous flight, object detection, and obstacle avoidance.
+   - TensorFlow and TensorFlow Lite: Frameworks for developing and deploying AI models on drones, suitable for image recognition, object detection, and decision-making.
+   - OpenCV: Provides tools for computer vision applications, enabling AI-based vision capabilities like image processing and object detection.
+   - PyTorch: A deep learning framework used for developing AI algorithms and implementing advanced functionalities on drones.
+
+
+
