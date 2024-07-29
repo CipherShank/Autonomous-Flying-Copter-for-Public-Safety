@@ -36,6 +36,8 @@
 11. Mounting Hardware:
     - Components: Screws, Nuts, and Bolts
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+
 ### 7.2 : Software Components for Drone Manufacturing
 
 1. Firmware:
@@ -63,5 +65,24 @@
    - OpenCV: Provides tools for computer vision applications, enabling AI-based vision capabilities like image processing and object detection.
    - PyTorch: A deep learning framework used for developing AI algorithms and implementing advanced functionalities on drones.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
+#### 7.3 : Innovative Battery Integration for Enhanced Drone Performance
 
+To optimize drone performance and ensure reliable operation for various tasks, we are introducing a novel approach to battery placement and distribution. This innovative strategy involves a dual-battery configuration designed to meet the diverse power requirements of the drone’s components.
+
+# Dual-Battery Configuration
+
+	1.	Segmented Battery Placement:
+	   •	Motors: Each motor will be powered by an individual battery housed within the drone’s arms. This segmented approach allows for efficient power distribution and helps in balancing the drone’s weight, ensuring that each motor receives a dedicated power source. By isolating the batteries for each motor, we enhance the reliability and redundancy of the drone’s propulsion system, reducing the risk of power-related failures affecting the entire drone.
+	2.	Centralized Battery for Core Functions:
+	   •	Main Body: In addition to the individual motor batteries, a central battery will be positioned in the main body of the drone. This battery will supply power to critical components such as the camera and AI systems. By dedicating a separate battery to these functions, we ensure that the high-power demands of advanced sensors and real-time processing do not interfere with the motor operations. This configuration also supports longer flight times and more efficient energy management, as the central battery can be optimized for the drone’s core functionalities.
+
+# Benefits of the New Battery Configuration
+
+	•	Enhanced Power Management: The dual-battery setup allows for better power distribution and management. Individual motor batteries can be optimized for propulsion, while the central battery ensures that the drone’s advanced features, such as AI-driven cameras and sensors, receive consistent power without affecting flight performance.
+	•	Improved Reliability: By isolating the power sources, we increase the overall reliability of the drone. If one battery experiences issues, it is less likely to impact the other systems, reducing the risk of total failure and ensuring that the drone can continue operating effectively.
+	•	Balanced Weight Distribution: Placing batteries in strategic locations helps in maintaining the drone’s balance and stability. The segmented battery placement in the arms, combined with the central battery, helps to evenly distribute weight, leading to smoother flight dynamics and enhanced maneuverability.
+	•	Extended Flight Time and Operational Efficiency: With dedicated batteries for different systems, the drone can achieve longer flight times and improved efficiency. The central battery supports extended operations of high-power components, while the motor batteries focus on propulsion, optimizing overall performance.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
