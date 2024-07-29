@@ -4,19 +4,19 @@ The integration of AI technology with drones marks a revolutionary advancement i
 
 # Contents
 
-#01 - Introduction 
-#02 - Abstract
-03 - Idea-Behind
-04 - Solution (Workflow) 
-05 - Why use Drones
-06 - Types of Drones 
-07 - Drone Manufacturing 
-  7.1 - Hardware Components
-  7.2 - Software Components
-  7.3 - New Way of Using Batteries 
-08 - Solider AI Drone (Self Control) 
-09 - Commander AI 
-10 - Challenges Faced & Solutions 
-11 - Outcomes (Advantages) 
-12 - Conclusion 
-13 - Copyright 
+- 01 : Introduction 
+- 02 : Abstract
+- 03 : Idea-Behind
+- 04 : Solution (Workflow) 
+- 05 : Why use Drones
+- 06 : Types of Drones 
+- 07 : Drone Manufacturing 
+  - 7.1 : Hardware Components
+  - 7.2 : Software Components
+  - 7.3 : New Way of Using Batteries 
+- 08 : Solider AI Drone (Self Control) 
+- 09 : Commander AI 
+- 10 : Challenges Faced & Solutions 
+- 11 : Outcomes (Advantages) 
+- 12 : Conclusion 
+- 13 : Copyright 
