@@ -9,7 +9,7 @@ The integration of AI technology with drones marks a revolutionary advancement i
 - 03 : Idea-Behind
 - 04 : Solution (Workflow) 
 - 05 : Why use Drones
-- 06 : Types of Drones 
+- 06 : Drone Type 
 - 07 : Drone Manufacturing 
   - 7.1 : Hardware Components
   - 7.2 : Software Components
