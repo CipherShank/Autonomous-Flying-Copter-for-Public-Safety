@@ -1,0 +1,35 @@
+#### Functionalities
+
+	1.	Receiving Coordinates:
+	  •	Purpose: The drone receives and processes coordinates from multiple sources, such as distress signals or predefined locations. This information is crucial for navigating to specific areas quickly and accurately.
+	  •	Importance: Accurate and prompt receipt of coordinates is essential for efficient emergency responses. It enables the drone to reach the target location without delay, ensuring timely intervention in critical situations.
+	2.	Event Response:
+	  •	Purpose: Upon arriving at the location, the drone assesses the situation, such as evaluating a distress call or identifying an emergency. This involves recognizing and categorizing events to determine the appropriate actions.
+	  •	Importance: The drone’s ability to analyze and respond to events is vital for effective mission execution. It ensures that the drone can perform tasks like capturing live video, initiating emergency protocols, or communicating crucial information to ground control.
+	3.	Video Streaming:
+	  •	Purpose: Live video streaming allows real-time monitoring of the situation at the drone’s location. This feature provides high-quality video feeds to the main server or control room.
+	  •	Importance: Real-time video streaming aids authorities in making informed decisions by offering visual data on the situation. It helps in assessing the severity of the event and planning appropriate interventions.
+	4.	Autonomous Actions:
+	  •	Purpose: The drone can execute predefined actions or responses autonomously, without direct human intervention. This includes tasks like obstacle avoidance, navigation adjustments, or activating emergency protocols based on predefined algorithms.
+	  •	Importance: Autonomous capabilities enable the drone to make swift decisions and perform tasks effectively, particularly in scenarios where manual control may be impractical or impossible.
+
+#### What Does It Do?
+
+In a scenario where individual drones operate under a centralized AI control system, each drone acts as an autonomous unit with distinct roles and responsibilities. Here’s an overview of their capabilities:
+
+	1.	Receiving Commands:
+	  •	Each drone receives specific commands from the central AI, detailing its roles, tasks, waypoints, and objectives within the mission framework.
+	2.	Executing Assigned Tasks:
+	  •	Drones autonomously perform their assigned tasks, which can range from surveillance and patrolling to reconnaissance and emergency response, based on the received instructions.
+	3.	Real-Time Data Collection:
+	  •	Drones continuously gather and transmit data to the central AI. This includes environmental conditions, visual and sensor data, GPS coordinates, and other relevant information necessary for mission execution.
+	4.	Navigation and Path Planning:
+	  •	Equipped with onboard sensors and GPS, drones navigate their designated routes, avoiding obstacles and following the flight plans or waypoints set by the central AI.
+	5.	Collaborative Actions:
+	  •	Drones can work together, sharing information and coordinating their movements. This collaboration can involve forming networks for broader surveillance or search operations, enhancing mission efficiency.
+	6.	Adapting to Changes:
+	  •	Drones are capable of adapting to unforeseen events or changes in mission parameters autonomously, following predefined protocols or updated directives from the central AI.
+	7.	Maintaining Connectivity:
+	  •	Each drone ensures continuous connectivity with the central AI, receiving updates, reporting status, and synchronizing actions with other drones in the operation.
+	8.	Implementing Safety Protocols:
+	  •	Drones are equipped with safety measures and fail-safes to prevent collisions, manage emergencies, and return to a safe location in case of communication loss or critical system failures.
